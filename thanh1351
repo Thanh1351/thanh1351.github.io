@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Thành Lê</title>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>	
+		<div id="in4">
+				<div class="main-in4">
+					<h1>Lê Văn Thành</h1>
+					<h2>Software Engineer</h2>
+				</div>
+
+				<div class="contact-in4">
+					<h3><a href="mailto:thanhlvde150101@fpt.edu.vn">thanhlvde150101@fpt.edu.vn</a></h3>
+					<h3>+84868664***</h3>
+					<h3>Facebook: <a href="http://facebook.com/thanhleona2012/">Thành Lê</a></h3>
+				</div>
+		</div>
+
+		<div id="body">
+			<div class="gr">
+				<div class="profile">
+					<div class="caption">
+						<h2>Profile</h2>
+					</div>
+					<div class="info">
+						<p>I'm K15 of FPT University Da Nang. Now I study at Class: SB1511.</p>
+					</div>
+				</div>
+			</div>
+			<div class="gr">
+				<div class="skills">
+					<div class="caption">
+						<h2>Skills</h2>
+					</div>
+					<div class="talent">
+						<div class="talent-name">
+							<h3>Basic code skills</h3>
+							<p>Learned C,C++,Java in the past</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="gr">
+				<div class="technical">
+					<div class="caption">
+						<h2>Technical</h2>
+					</div>
+					<div class="talent">
+						<ul class="talent-name">
+							<li>HTML</li>
+							<li>C</li>
+							<li>Java</li>
+						</ul>
+
+						<ul class="talent-name">
+							<li>Word</li>
+							<li>Excel</li>
+							<li>Powerpoint</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="gr">
+				<div class="edu">
+					<div class="caption">
+						<h2>Education</h2>
+					</div>
+					<div class="yui-u">
+						<h2 style="color:#FF4000">FPT University Danang</h2>						
+				</div>
+			</div>
+		</div>
+
+		<div id="footer">
+			<p>Pham The Toan - <a href="mailto:thanhlvde150101@fpt.edu.vn">thanhlvde150101@fpt.edu.vn</a> // +84868664***</p>
+		</div>
+</body>
+</html>
+
